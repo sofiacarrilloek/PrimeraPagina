@@ -1,0 +1,39 @@
+body{
+    background-color:cadetblue;
+    color: #cef4f7;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h3{
+    color: #fff0c1;
+    font-size: 23px;
+}
+
+/*Esto es un comentario*/
+
+h1, p{
+    color: #ffbdff;
+}
+
+img{
+    /*width: 400px*/
+    width: 400px;
+    height: 280px;
+    border-style: solid;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.img1{
+    width: 500px;
+    height: 300px;
+}
+
+.img2{
+    width: 700px;
+    height: 400px;
+}
+a,small{
+    color: #895b45;
+}
